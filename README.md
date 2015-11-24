@@ -43,3 +43,11 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+##Shockley Fork
+
+This fork has added example code for a 16x8 LED matrix.  In doing so, two additional python files were added:
+ex_16x8_pixels.py
+Adafruit_16x8.py
+
+These files can be used to demonstrate using a 16x8 LED matrix, such as [item # 2054 available at Adafruit.com.](http://www.adafruit.com/products/2054)
